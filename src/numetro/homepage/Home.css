@@ -1,0 +1,33 @@
+.container{
+    border: 1px solid #000;
+    height: 140px;
+    width: 100%;
+}
+
+.search-div{
+    border: 1px solid #000;
+    height: 30%;
+    width: 100%;
+    background-color: #e1e1e1;
+    display: flex;
+}
+.phone-icon{
+    color: #f5841f;
+}
+.search-div a{
+    text-decoration: none;
+    color: #f5841f;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.search-bar{
+    width: 50%;
+    border: 1px solid #000;
+    height: 100%;
+}
+
+.navbar{
+  height: 70%;
+  background-color: #000;
+}
