@@ -19,7 +19,7 @@ function Home() {
     <TfiYoutube />
     <FaInstagram />
     <FaWhatsapp />
-      </div>
+      </div> 
     
     <div className="search-bar">
       <input type="text" placeholder='Search movie' />
